@@ -1,20 +1,21 @@
 body {
-  background-color: #7a1a60;
+  background-color: #662461;
 }
 
 p {
   font-style: normal;
   font-family: sans-serif;
   font-size: 16px;
+  color: white;
 }
 
 h1{
-  font-size: 60px;
+  font-size: 75px;
   font-style: normal;
   font-family: serif;
   font-weight: 400;
   font-stretch: semi-expanded;
-  color: #e8fbff;
+  color: #ffdbde;
   text-align: center;
 }
 
@@ -25,7 +26,7 @@ h2 {
   font-stretch: expanded;
   font-style: italic;
   text-align: center;
-  color: darkblue;
+  color: #ffdbde;
 }
 
 h3 {
@@ -53,7 +54,7 @@ p.special {
     margin-right: auto;
 }
 p.center {
-  display: center;
+  text-align: center;
   margin-left: auto;
   margin-right: auto;
 }
