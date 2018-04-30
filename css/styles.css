@@ -1,0 +1,59 @@
+body {
+  background-color: #7a1a60;
+}
+
+p {
+  font-style: normal;
+  font-family: sans-serif;
+  font-size: 16px;
+}
+
+h1{
+  font-size: 60px;
+  font-style: normal;
+  font-family: serif;
+  font-weight: 400;
+  font-stretch: semi-expanded;
+  color: #e8fbff;
+  text-align: center;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: 200;
+  font-family: cursive;
+  font-stretch: expanded;
+  font-style: italic;
+  text-align: center;
+  color: darkblue;
+}
+
+h3 {
+  font-size: 24px;
+  font-family: sans-serif;
+  font-weight: 200;
+  font-stretch: condensed;
+  align-items: center;
+}
+
+img {
+  border: 2px;
+  border-width: thin;
+}
+
+p.special {
+  font-size: 18px;
+  font-family: cursive;
+  font-weight: bolder;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+p.center {
+  display: center;
+  margin-left: auto;
+  margin-right: auto;
+}
