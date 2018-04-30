@@ -42,10 +42,12 @@ img {
   border-width: thin;
 }
 
-p.special {
-  font-size: 18px;
-  font-family: cursive;
-  font-weight: bolder;
+.special {
+  font-size: 16px;
+  width: 800px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .center {
@@ -57,4 +59,8 @@ p.center {
   text-align: center;
   margin-left: auto;
   margin-right: auto;
+}
+
+a {
+  color: hotpink;
 }
