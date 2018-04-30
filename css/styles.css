@@ -58,14 +58,3 @@ p.center {
   margin-left: auto;
   margin-right: auto;
 }
-
-.column {
-    float: left;
-    width: 33.33%;
-}
-
-.row {
-    content: "";
-    display: table;
-    clear: both;
-}
